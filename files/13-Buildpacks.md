@@ -39,7 +39,7 @@
 > `cf app APP_NAME` gives the details of the buildpack used for the application.
 
 - Why might you customize a buildpack? In general, would you know what to do?
-> If your application uses a language or framework that the Cloud Foundry system
+> If your application uses a language or framework that the Cloud Foundry system buildpacks do not support.
 
 
 ## Pluralsight Recap
